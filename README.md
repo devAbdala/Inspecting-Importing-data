@@ -1,2 +1,2 @@
-# Inspecting-Importing-data
-Inspecting-Importing-data &amp; Web Scraping
+Inspecting-Importing-data
+Web Scraping
